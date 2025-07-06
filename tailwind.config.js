@@ -1,12 +1,16 @@
-// tailwind.config.js
+const defaultTheme = require('tailwindcss/defaultTheme');
+
 module.exports = {
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      colors: {
-        lavender: 'rgb(189,147,211)',
+        colors: {
+        seagreen: '#2e8b57',
+      },
+      fontFamily: {
+        sans: ['Poppins', ...defaultTheme.fontFamily.sans],
       },
     },
   },
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'], // Make sure this is correct
   plugins: [],
 };
