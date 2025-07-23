@@ -14,3 +14,10 @@ module.exports = {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'], // Make sure this is correct
   plugins: [],
 };
+theme: {
+  extend: {
+    colors: {
+      seagreen: '#2E8B57'
+    }
+  }
+}
