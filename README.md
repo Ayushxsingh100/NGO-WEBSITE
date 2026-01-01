@@ -20,6 +20,11 @@ As the lead frontend engineer for this initiative, I built a highly optimized, r
 - **SEO & Accessibility:** Optimized semantic HTML5 for better search ranking and screen reader support.
 - **Maintainability:** A modular folder structure allowing easy content updates by non-technical staff in the future.
 
+## 📸 Screenshots
+
+![Dashboard](dashboard.png)
+![Dashboard2](dashboard2.png)
+
 ---
 
 ## 🛠️ Tech Stack
