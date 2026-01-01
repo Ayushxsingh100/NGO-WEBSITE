@@ -24,6 +24,7 @@ As the lead frontend engineer for this initiative, I built a highly optimized, r
 
 ![Dashboard](dashboard.png)
 ---
+---
 ![Dashboard2](dashboard2.png)
 
 ---
