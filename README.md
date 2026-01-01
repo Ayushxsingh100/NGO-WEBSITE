@@ -1,4 +1,4 @@
-# AAS Social Welfare Society - Official Website
+# AAS Social Welfare Society
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 ![Performance](https://img.shields.io/badge/Lighthouse-100%25-green)
@@ -27,7 +27,7 @@ I intentionally chose a **dependency-light stack** to ensure maximum load speed 
 - **Styling:** Tailwind CSS (v3.x)
 - **Build Tool:** Vite (for High-Performance Hot Module Replacement)
 - **Package Manager:** npm
-- **Deployment:** [Vercel / Netlify / GitHub Pages]
+- **Deployment:** Vercel
 
 ---
 
